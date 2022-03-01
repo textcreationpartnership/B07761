@@ -1,0 +1,1143 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Briefe and pleasaunt treatise, intituled: Naturall and artificiall conclusions: written firste by sundry schollers of the Vniuersitie of Padua in Italie, at the instant request of one Bartholmew a Tuscane: and now Englished by Thomas Hyll Londoner, as well for the commoditye of sundrye artificers, as for the matters of plesure, to recreat witts at vacant times..</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1586</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 34 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B07761</idno>
+            <idno type="OCLC"> 180867259</idno>
+            <idno type="STC">STC 13481</idno>
+            <idno type="STC">ESTC S92994</idno>
+            <idno type="EEBO-CITATION">180867259</idno>
+            <idno type="OCLC">ocn 180867259</idno>
+            <idno type="VID">191758</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B07761)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191758)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2286:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Briefe and pleasaunt treatise, intituled: Naturall and artificiall conclusions: written firste by sundry schollers of the Vniuersitie of Padua in Italie, at the instant request of one Bartholmew a Tuscane: and now Englished by Thomas Hyll Londoner, as well for the commoditye of sundrye artificers, as for the matters of plesure, to recreat witts at vacant times..</title>
+                  <author>Albertus, Magnus, Saint, 1193?-1280.</author>
+                  <author>Batholomaeus, Anglicus, 13th cent.</author>
+                  <author>Cardano, Girolamo, 1501-1576.</author>
+                  <author>Hill, Thomas, b. ca. 1528.</author>
+                  <author>Mizauld, Antoine, 1510-1578.</author>
+                  <author>Wecker, Johann Jacob, 1528-1586.</author>
+               </titleStmt>
+               <extent>[62+] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>by Edward Allde.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1586..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A compilation of translated material from a number of earlier writers, primarily Girolamo Cardano, but also including Mizauld, Bartholomew Anglicus, J.J. Wecker, and Albertus Magnus; the possibility exists that Hill originated some of the material himself. Cf. Hall, T.H. Old conjuring books, p. 41-42.</note>
+                  <note>First extant edition 1581, but evidence exists indicating editions in 1567 and 1568. Cf. Hall, p. 35-40.</note>
+                  <note>Black letter.</note>
+                  <note>Tail-piece; initials; title vignette (candle burning in a bottle).</note>
+                  <note>Signatures: A-D⁸ (last leaf blank?).</note>
+                  <note>Error in register: D₄ printed D₃.</note>
+                  <note>Imperfect: cropped, stained, and with print show-through; last leaf missing?</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Magic tricks --  Early works to 1800.</term>
+               <term>Puzzles --  Early works to 1800.</term>
+               <term>Amusements --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:191758:1"/>
+            <pb facs="tcp:191758:1" rendition="simple:additions"/>
+            <pb facs="tcp:191758:2" rendition="simple:additions"/>
+            <pb facs="tcp:191758:2" rendition="simple:additions"/>
+            <pb facs="tcp:191758:3"/>
+            <pb facs="tcp:191758:3" rendition="simple:additions"/>
+            <p>
+               <g ref="char:leaf">❧</g> A Briefe and pleaſaunt <hi>Treatiſe, Intituled: Naturall</hi> and Artificiall
+Concluſions: Written firſte by ſundry Schollers of the Vni<g ref="char:EOLhyphen"/>uerſitie of Padua In Italie, at
+the inſtant re<g ref="char:EOLhyphen"/>queſt of one Bartholmew a Tuſcane: And now Engliſhed by THOMAS HYLL
+Londoner, as well for the commoditye of ſundrye Arti<g ref="char:EOLhyphen"/>ficers, as for the matters of pleſure to
+recreat witts at vacant times.</p>
+            <figure>
+               <figDesc>a fireproofed glass vase or pot</figDesc>
+            </figure>
+            <p>
+               <hi>Imprinted at London by</hi> Edward Allde. 1586.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:191758:4" rendition="simple:additions"/>
+            <pb facs="tcp:191758:4"/>
+            <head>
+               <g ref="char:leaf">❧</g> Naturall and Artificial Concluſions.</head>
+            <div type="chapter">
+               <head>* The properties of the Ada<g ref="char:EOLhyphen"/>mant ſtone.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">F</seg>Irſt,</hi> if any bolde the <hi>Ada<g ref="char:EOLhyphen"/>mant</hi> Stone in his hande, vnder a goblette or
+ſiluer boule, or vnder a table, &amp; that the ſame be moued too and fro in the hand, the<g ref="char:cmbAbbrStroke">̄</g> in
+the like manner will the Iron or Néedle lying in the goblet, or on the table moue too and
+fro and round about. Alſo the <hi>A<g ref="char:EOLhyphen"/>damant</hi> ſometimes with the one corner will drawe Iron
+vnto it, &amp; with the other corner put the Iron from it. Alſo if any annointeth this Stone with
+Garlicke, it doth then hinder the Stone from drawing any Iron or Needle vnto it, although the
+Néedle ſhould be laide on the Stone. And ſome write that this Stone will drawe
+Glaſſe vnto it, in like manner as it dooth the Iron.</p>
+            </div>
+            <div type="chapter">
+               <head>The ſecret properties of the Egge.</head>
+               <pb facs="tcp:191758:5"/>
+               <p>ANd Firſt, the round Egge ſet vnder the Henne, bringeth foorth a Henne Chicken, and the
+longe Egge ſet vn<g ref="char:EOLhyphen"/>der the Henne, bringeth foorth a Cocke chicken. Alſo the Egge with the ſhel
+laide to ſtéep in Vineger for thrée dayes ſpace, dooth after ſo often it, that
+any may woork the ſame at length like vnto Waxe. And the ſame Egge afterward laide in water,
+dooth come againe vnto the former ſtate. Alſo, if an Egge be painted with ſundrye colours,
+and the ſame ſet vnder a Hen to bring foorth, ſhe ſhall hatch a Chicken ha<g ref="char:EOLhyphen"/>uing the like
+feathers, vnto the colours painted on the Egge. Alſo the Egge laide for thrée daies to
+ſtéepe in ſtrong Vinegar and after for one whole Moneth, laide to drie againe in the
+Sonne, will after come vnto the hardneſſe of a ſtone.</p>
+            </div>
+            <div type="chapter">
+               <head>A proper concluſion of an Haſell ſticke.</head>
+               <p>FIrſte, take an Haſell ſticke of a yarde long, béeing new cut off, and the ſame
+cleaue iuſte in the middle, giuing the one end ſo cleaued vnto thy companion to holde in both
+his hands, and the other end
+<pb facs="tcp:191758:5"/>holde your ſelfe in both your handes after ſuch ſorte, that both the inner partes
+of the ſticke, maye look one right againſt the other, in the laying downe on the ground, and
+muſt alſo be layde a ſunder vnto the breadth of two fingers, in ſuch ſorte that they may
+touch togetherby an ouerthwart maner at ſome one place, &amp; within a while after you ſhall
+ſée them drawe and ioyne together againe of themſelues. And this vnderſtand, that the
+ſticke muſt be newe cleaued, ſoone after the cutting vp of it, for otherwiſe this ſtick
+woorketh not the proper effect.</p>
+            </div>
+            <div type="chapter">
+               <head>¶ A proper practiſe to make a Capon to bring vp yong Chickens.</head>
+               <p>FIrſt, to doo this take a Capon and pull the bellye bare of Feathers and after rubbe the naked
+place with Nettles, ſetting young Chickens vnder him, and he will then miraculouſlye
+cherriſhe them, and bring them kindelye vp. And the rather, if you accuſtome to vſe the Capon
+the lyke for a time. For by that meanes he is mooued the willinger to che<g ref="char:EOLhyphen"/>riſhe, bring vp and
+feede, yea and to loue
+<pb facs="tcp:191758:6"/>them ſo well as the Hen naturally would doo. And the reaſon of this is in that
+tho<g ref="char:EOLhyphen"/>rowe the pricking of the Nettles, he is therby the rather deſirous to touch the ſoft downe
+and fethers of the yong Chickens ſitting vnder him.</p>
+            </div>
+            <div type="chapter">
+               <head>To make any foule of what condition the ſame be: to haue fethers all white.</head>
+               <p>TO doo this take the Egges and roule them in the iuice of the hearb called Mouſe-eare or in
+the hearbe called houſe<g ref="char:EOLhyphen"/>léek or other wiſe in oyle (after the minde of
+<hi>Cardanus</hi>) and after put the Egges a<g ref="char:EOLhyphen"/>gaine in the neaſt, and after the hatching: their
+feathers ſhall growe white.</p>
+            </div>
+            <div type="chapter">
+               <head>To make a Candell burne in the Water.</head>
+               <p>ANd to doo this: take Ware, Brim<g ref="char:EOLhyphen"/>ſtone and Vineger, of each a like, boyle theſe altogether
+ouer the fire vntil the vineger appeare al conſu<g ref="char:EOLhyphen"/>med, and then after of that Waxe remai<g ref="char:EOLhyphen"/>ning make
+a Candle, and you ſhall ſée the proper effect as aboue is written.</p>
+            </div>
+            <div type="chapter">
+               <pb facs="tcp:191758:6"/>
+               <head>To make a Woman that ſhe ſhall not eate of the meates ſet vpon the Table.</head>
+               <p>TO doo this, take a little of the gréen Baſill, and when one bringeth any Diſhes of
+Meate vnto the table, then put the ſame hearb ſecretly vnder one of the platters or diſhes,
+that ſhe eſpie it not and as long as the hearbe ſo lyeth on the table, the woman ſhal eate
+nothing of that meate in the platter or diſhe, which coue<g ref="char:EOLhyphen"/>reth the hearbe.</p>
+            </div>
+            <div type="chapter">
+               <head>A proper ſecret of the Philoſophers, to make a Stone to burne with<g ref="char:EOLhyphen"/>out fier.</head>
+               <p>AND to doo this, take Calamite Brimſtone, vnſlecked Lyme, pitch, Ceruſe, of eache of
+theſe thrée Drammes, of <hi>Camphora</hi> one Dramme, <hi>Aſphaltum,</hi> thrée
+Drammes, all theſe make in pouder and put the ſame in a ſtronge potte, well ſtopped, and
+after make a fire vnder the potte, encreaſing the ſame by little &amp; little vntill the powder
+in the potte become ſo hard as a ſtone, and when you will haue it
+<pb facs="tcp:191758:7"/>burne, then rubbe the ſame well with a cloath, &amp; it will burne ſodainly: and
+when you will put the ſame out, then ſpit vpon it, and after ſet the ſame in a moyſt
+place, and it will goe out.</p>
+            </div>
+            <div type="chapter">
+               <head>To make one to ſee fearfull ſights in his ſleep.</head>
+               <p>ANd to doo this, take the blood of a Lapwing, and ther-with annoynt the pulſes of thy
+foreheade, before thy going to reſt, &amp; the<g ref="char:cmbAbbrStroke">̄</g> after in thy ſléepe thou ſhalt
+ſée both meruailous and fearefull ſightes, as <hi>Vitalis Medicus</hi> wri<g ref="char:EOLhyphen"/>teth. Alſo
+he writeth, that if a man eateth in the Euening before his going to Bed, of the hearb named
+Nightſhade, or Man<g ref="char:EOLhyphen"/>drake, or Henbane, ſhall after ſée in his ſléep pleſant
+ſights.</p>
+            </div>
+            <div type="chapter">
+               <head>How to turne water into wine, a proper ſecret.</head>
+               <p>IF thou wilt conuert, or turne water into Wine, then fill a braſſe Pot with the beſt Wine,
+ſetting vpon the head of the Pot a Limbecke, and diſtill the Wine out, &amp; the Lées
+remaining after the diſtil<g ref="char:EOLhyphen"/>lation
+<pb facs="tcp:191758:7"/>orie them, and bring them into fine pouder, which equally mixed with the wa<g ref="char:EOLhyphen"/>ter, dooth
+ſo cauſe the water to haue both the colour, and taſte of the ſame wine. And the like vnto
+this may be wrought &amp; doone in a Roſe Limbeck. Alſo a loafe of Barlie bread hote drawne out
+of the Ouen, &amp; bro<g ref="char:EOLhyphen"/>ken into great péeces hote, and laide ſo to ſoke in good wine,
+which péeces when they ſhalbe wel ſoken in the wine, let them dry in the Sunne, and
+after ſoke of that bread in faire water, and it will after receiue both the colour and taſte of
+that wine.</p>
+            </div>
+            <div type="chapter">
+               <head>To make a light or Candle to indure bur<g ref="char:EOLhyphen"/>ning without going out by any winde ſo long as the
+ſubſtance en<g ref="char:EOLhyphen"/>dureth.</head>
+               <p>TO doo this, make a wéeke after thy diſcretion, which infuſe in the Oyle of
+Hempſéede, and after into molten tallow, as you would properly make a wéecke or
+Cotten Candle, letting the ſame to hang ſomewhat vntill it be colde, which through cold, then
+light it in the like ſort as you doo a common Candell, and it will not after goe out with no
+winde, ſo
+<pb facs="tcp:191758:8"/>long as the ſubſtance endureth and in like ſorte maye lighte be made to ſerue
+in the night time, if ſo be that fine linnen raggs be firſt ſoked in the oyle of
+hempſéed, and after dipped into molten Tallowe, which ſo bound or wrought on a ſtaffes
+ende, to carry about, or otherwiſe on a ſtaffes end lying in an iron plate.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make quarters of wood to hang ſo faſt togither, that they can not be ſha<g ref="char:EOLhyphen"/>ken a
+ſunder without breaking.</head>
+               <p>
+                  <figure/>
+               </p>
+               <p>TO make quarters holde and hange togeather thus without tying, muſt be doone on this wiſe:
+Firſte, laye one of the quarters downe, as theſe two betters <hi>A.</hi> and <hi>B.</hi> doo
+inſtruct, on the which
+<pb facs="tcp:191758:8"/>laye the other quarter, euen as theſe two letters <hi>C.</hi> and <hi>D.</hi> doo
+héere repreſent, and on that <hi>C.</hi> and <hi>D.</hi> laye the third quarter as the
+letters <hi>E.</hi> and <hi>F.</hi> doo héer expreſſe, and in ſuch ſort, that
+<hi>E.</hi> and <hi>F.</hi> muſt lye vnder <hi>A.B.</hi> And being then thruſte hard togither
+they cannot after fall away without brea<g ref="char:EOLhyphen"/>king, in that <hi>A.</hi> and <hi>B.</hi> is ſtaied and
+helde of <hi>E.</hi> and <hi>F.</hi> and <hi>E.</hi> and <hi>F.</hi> of <hi>C.</hi> and <hi>D.</hi>
+and <hi>C.</hi> and <hi>D.</hi> holden of <hi>A</hi> and <hi>B.</hi> ſo that none of them can
+fall a ſunder, the one from the other. Alſo that place where <hi>B.D.E.</hi> is hol<g ref="char:EOLhyphen"/>den or
+ſtayed togither, and dooth the like holde together as by triall of the ſame ſhal more
+manifeſtly appeare. Alſo, the more and harder they be thruſt togither the lon<g ref="char:EOLhyphen"/>ger they
+co<g ref="char:cmbAbbrStroke">̄</g>tinue ſo hanging togither. And ſome ſuppoſe that a like triall vnto this, maye be
+aſſaied and prooued, either with thrée ſtickes made flatte for the nonce, or with
+thrée kniues being a like, if they be orderly vſed.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a colour like to golde in vn<g ref="char:EOLhyphen"/>derſtanding this ſecret.</head>
+               <p>AND to doo this, take of Aloes Hepa<g ref="char:EOLhyphen"/>ticke, and of ſalt Niter, of each ſix oun<g ref="char:EOLhyphen"/>ces,
+<pb facs="tcp:191758:9"/>thoſe grinde, and perfectly mixt toge<g ref="char:EOLhyphen"/>ther on a ſmoothe Marbell, or other harde
+ſtone: that being ſo laboured together, they can after be ſeperated by no meanes, and after
+diſtill the ſame in a Limbeck of glas well luted about, that you may ſo drawe out all the
+moyſt ſubſtance that will come And with this maye you gilde what you liſt, vnderſtanding
+how to drawe this ly<g ref="char:EOLhyphen"/>cour. Alſo by a ſhorter way &amp; leſſer paine, may you doo the like,
+although not ſo per<g ref="char:EOLhyphen"/>fect as the other aboue ſaide, which in déed is right meruailous.
+And now this is on this wiſe: Firſt take of Aloes Hepa<g ref="char:EOLhyphen"/>tick, thrée ounces, of Roſen
+ſix ounces and of oyle of Lineſéed wel boiled, a pinte and a halfe, theſe ſet ouer
+the fire in a pot, and mingle them well together, after ſtraine the ſame licour through a
+Linnen cloath, putting it into a potte, which you muſt ſtop cloſe, and ſo kéepe the
+ſame vntill you haue néed to gilde any thing therewith.</p>
+            </div>
+            <div type="chapter">
+               <head>To make Siluer like any mettell which ſhall ſo continue a long time.</head>
+               <p>FOR to doo this, take halfe an ounce of <hi>Aqua-fortis,</hi> and a ſcruple of Quick<g ref="char:EOLhyphen"/>ſiluer,
+
+<pb facs="tcp:191758:9"/>and a little of the Tarter made of the white wine, and a little Salt: Theſe put
+altogether in a Pot or earthen Pan, working and labouring the ſame together ouer hotte Imbers,
+which ſo doone, you may after with this compoſition make ſil<g ref="char:EOLhyphen"/>uer like any mettall you liſt,
+and to conti<g ref="char:EOLhyphen"/>nue ſo a long time.</p>
+            </div>
+            <div type="chapter">
+               <head>How to ſtick an Iron or Steele Bodkin, into the head of either Cocke, Hen or
+Chicken.</head>
+               <p>AOD to doo this, write firſte theſe woordes following, that is to ſaye <hi>Gibell, Got,
+Gabell,</hi> in a Scrole, and binde the ſame about the Bill of the Cocke, Hen, or Chicken, to
+colour this ſecret withall, which ſo doone, then pearce the head of the Birde, iuſt in the
+middle, as you can geſſe, with a verrie ſharpe poynted Bodkin, and after, ſet y<hi rend="sup">e</hi> Birde
+downe, and you ſhall ſée the Birde ſo luſtely runne away from you, as if no<g ref="char:EOLhyphen"/>thing
+were ſticking into the heade, if the Pullet be bigge, vnto the woonder of ſuch as ſhall
+ſée the ſame. And now the reaſon of this is, in that the head and brain of the
+<pb facs="tcp:191758:10"/>Pullet, is deuided into two partes in the bone, and the bone alſo doubled in the
+mid<g ref="char:EOLhyphen"/>deſt, ſo that the Bodkin may eaſily enter without danger, and of this the braine ſo
+pearced, the Pullet neuertheleſſe liueth: which if the ignorant ſée, they wil perhaps
+beleeue, and think that the woordes onelie dooth the ſame which is nothing leſſe.</p>
+            </div>
+            <div type="chapter">
+               <head>To make a Candle that wil not goe out vn<g ref="char:EOLhyphen"/>till the whole ſubſtance be waſted.</head>
+               <p>AND to doo this, take the beſt Wax and the pure Brimſtone, of eache a like portion, which
+take and melte to<g ref="char:EOLhyphen"/>gither, and after make a Candle there<g ref="char:EOLhyphen"/>of, which being lighted, ſet the ſame
+in a Candleſtick to burne. And the ſame Can<g ref="char:EOLhyphen"/>dle ſo lighted, will not goe out vntill the whole
+ſubſtance be ſpent. thus <hi>Cardanus</hi> writeth</p>
+            </div>
+            <div type="chapter">
+               <head>How to make Iron ſofte, a proper ſecret.</head>
+               <p>AND to doo this, take the iuice of the Hemlocke, and quenche the Iron in it, béeing well
+heated thrée or foure times, letting it there remaine euerye
+<pb facs="tcp:191758:10"/>time, vntill it be throughlye colde. Alſo <hi>Cardane</hi> writeth, that if you take
+oyle put<g ref="char:EOLhyphen"/>ting into it molten Leade ſeuen times to<g ref="char:EOLhyphen"/>gether, and after quench your Iron redde hote
+into that Oyle, for foure or fiue times together, and it will ſo make the ſame ſoft to
+woork.</p>
+            </div>
+            <div type="chapter">
+               <head>To make a Swoord, Dagger, or Knife to cut Iron ſo eaſily as Lead.</head>
+               <p>OF this thinge <hi>Hermes</hi> writeth, if a Swoord, Dagger or Knife, being only Iron and
+faſhioned, and being red hote, if the ſame be afterward quenched into the iuice of the
+Radiſh, mixed with the liquor of the freſh Woormes of the grounde, or rather the water of
+Artely diſtilled, being before ſomewhat bruſed: ſuch a Swoorde Dagger or Knife, ſaith he
+ſhal after haue ſuch a ſtrange edge, if the ſame red hote be quenched foure or fiue times
+in it, that with the ſame you may cut Iron ſo eaſily as if it were Leade. Alſo he writeth
+that if Stéels be often molten in the Furnace, and be purified, vntil the ſame be ſo
+white as Siluer in a manner, and then after of the ſame faſhion, grauing Inſtruements
+<pb facs="tcp:191758:11"/>with their edges and pointes, orderly like as to the arte of grauing belongeth, which
+inſtruments being redde here, quencht af<g ref="char:EOLhyphen"/>ter into the iuice of Radiſhe and the diſtil<g ref="char:EOLhyphen"/>led
+Water of the Woormes of the earth, mixed together: Or elſe with the water of the Woormes, drawne
+through a cleane Linnen cloath, ſo that there be ſo much of this water, as of the iuce of the
+Radiſhe, and then thoſe inſtruments quencht foure or fiue times, in the aboue ſaid licour.
+And after will the edges and pointes of the in<g ref="char:EOLhyphen"/>ſtruements be ſo hard, that you maye cut and
+graue in any ſtone and Iron, ſo eaſily as the ſame were Leade.</p>
+            </div>
+            <div type="chapter">
+               <head>How to keep weapons cleane and faire for a long time.</head>
+               <p>ANd to doo this, take Barrowes greace common Oyle, new waxe, Ceruſe, of ech a like, theſe
+temper together very wel ouer a ſoft fire, vntil they be throughly in<g ref="char:EOLhyphen"/>corporated, and after
+anoint the burniſhed weapon with this ointment, and it ſhal ſo continue in the ſame
+brightneſſe, <hi>In ſecula ſeculorum.</hi> And there cannot be a greater ſecrete
+inuented, for the kéeping bright of
+<pb facs="tcp:191758:11"/>weapons then this is, if theſe woords be well vnderſtanded.</p>
+            </div>
+            <div type="chapter">
+               <head>¶ How to make ſteele ſofte as paſte, a proper ſecret.</head>
+               <p>DOo thus: Take the gall of an Oxe, Mans Vrine, Verges and the iuice of the Nettle of eache of
+theſe take a little quantity, and mixe them very diligently together, then after quench the
+Stéele red hote in this licour, foure or fiue times together, and it wil after become ſo
+ſoft as paſte: and this is a right proper and neceſſarye ſecrete, to be vnderſtanded of
+all ſuch woorkmen as doo any matters in Stéele, as grauing and ſuch lyke, if theſe
+woords be well marked.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make Hennes lay Egges all the Winter through.</head>
+               <p>TO doo this, take the toppes of the Nettles, when they begin to come vnto Séede, and drye
+them: which ſo dryed, giue a little of the ſame with Bran and Hempſéede mingled
+together, to your
+<pb facs="tcp:191758:12"/>Hens, and they ſhall euery day after laye you an Egge a péece.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make thy Chamber appeare full of Snakes and Adders.</head>
+               <p>TO doo this, kyll a Snake, putting the ſame into a Panne with Waxe and let it ſo long boyle:
+vntyll the ſame be throughe drye, and of that Waxe make a Candle, lighting the ſame in the
+Chamber, and then after ſhall ap<g ref="char:EOLhyphen"/>peare, as though there were a thouſand créeping in thy
+Chamber.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make letters appeare of the colour of Golde, Copper, or Siluer.</head>
+               <p>AND to doo this: take verry cléere Chriſtall, and woorke the ſame into meruailous
+fine pouder, on a mar<g ref="char:EOLhyphen"/>ble ſtone, &amp; after mix the ſame pou<g ref="char:EOLhyphen"/>der with the white of an Egge,
+vntill this be ſo prepared to write with all: And af<g ref="char:EOLhyphen"/>ter with this confectio<g ref="char:cmbAbbrStroke">̄</g>, write what letters
+you will, letting the ſame drye: and after rubbe a golde King or any péece of Golde on the
+ſame letters, and al the letters ſhal
+<pb facs="tcp:191758:12"/>appeare like gold. And in the like ſort may you make the Letters either appeare lyke
+ſiluer or copper.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make any peece of Iron to appeare like Golde.</head>
+               <p>AND to doo this take fowre pintes of Raine water into which put ten drammes of Roch Allum, and
+ten drams of ointment, of Romain Vi<g ref="char:EOLhyphen"/>trioll, and Salt Gemme, of eache one an ounce, and a ſcruple
+of Coperas: all theſe boyle together, after put there into a quart of Vineger, and of Tartarre,
+and common Salt finely beaten to pouder of eache thrée ounces, all theſe incorporate
+againe ouer a ſofte fyre verry well, and after occupy the ſame: which maketh a colour like
+vn<g ref="char:EOLhyphen"/>to golde.</p>
+            </div>
+            <div type="chapter">
+               <head>How to haue freſh Roſes at all times of the yeere ſundry waies taught.</head>
+               <p>AND Firſt if you wil haue freſhe Roſes at any time, ſo well as in the Moneth of May,
+then gather the buddes halfe open in a manner in the Euening, when as the
+<pb facs="tcp:191758:13"/>Sunne is ſet, and touch them not with thy hande in the gathering, but with a
+ſharpe knife properly gather them, after laye the Roſes vpon a boord, letting them to lye
+a<g ref="char:EOLhyphen"/>broad in a faire night, all y<hi rend="sup">e</hi> night through, and then after haue in a readineſſe a new
+earthen pot well glaſed within and with<g ref="char:EOLhyphen"/>out, into which put the former Roſes be<g ref="char:EOLhyphen"/>fore the Sunne
+be vp in the morning and ſtop cloſe the mouth of that pot with clay, mixed with Horſe dung,
+&amp; flocks, all tem<g ref="char:EOLhyphen"/>pered well together before, whereby no ayre of the Roſes maye paſſe or
+breathe foorth. After ſet the ſame Pot into the ground, couering it in drye Sand, and let no
+moyſte place be neer, or about the ſame And now on this wiſe may you haue freſh Roſes at
+any time of the yeere.</p>
+               <p>Alſo take of the Roſe buds in the ſpring time, when they begin firſt to open, &amp; put
+thoſe into a greene Cane yet growing, cleauing the ſame by little and little, vntil you may
+handſomely put in thoſe buddes, and after tye that place with a thréed, ſtop<g ref="char:EOLhyphen"/>ping the
+ſame about, that no ayre breath out, and after couer that péece of the Cane or
+Réede, ſo bounde and ſtopped about vn<g ref="char:EOLhyphen"/>der
+<pb facs="tcp:191758:13"/>the Earthe, bowing downe the ſame ſtalke by little and little, that the ſame
+breake not, and couer the ſame well with the earth, letting it there remaine ſo long as you
+liſt, and when you be minded to haue them foorth, then cleaue the Cane by little and little, that
+you ſpoyle not the buddes, and after ſet them in the Sunne, or in luke warme water, and they
+ſhal be open and fayre in a ſhorte ſpace, as in the middſt of Paie.</p>
+               <p>Alſo if you wil make drie Roſes to be<g ref="char:EOLhyphen"/>come freſhe, then take a newe glaſed pot and wet
+the ſame within with Roſe wa<g ref="char:EOLhyphen"/>ter, and after ſhat that pot with the Roſes very cloſe,
+letting it ſo to ſtande, for fiue daies, and they ſhall be freſh.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make Beans and other ſeeds growe vp in foure houres.</head>
+               <p>AND firſt, to make Beanes growe vp in an howres ſpace, take the Beanes and put them in hote
+oile, let them there remaine for eleuen dayes and after drye them. And when you will make the
+proofe of them, then ſet
+<pb facs="tcp:191758:14"/>the beanes, and goe to dinner, and by that time you riſe againe from the Table, and
+goe to looke on them, you ſhall finde them growe vp well a ſpanne high. And the like may you
+doo with the Gourds.</p>
+               <p>And now to make the Gourdes growe vp in the ſpace of fowre houres, both with leaues and
+Flowers, take the féede of the Gourde, and let them lye in the blood of a ſanguine young
+man, and let them there remaine for fiftéene dayes in a moiſt place and in a potte well
+ſtopped, and after take them foorth, and let them be dried well in the Sunne: and when you wil
+ſowe or plant them, then take a diſhe ful or two of good earthe, and drye the ſame well,
+after wet the ſame with a little freſhe water, and after haue warme water pouring the ſame
+vpon this earth vntil it become ſuffi<g ref="char:EOLhyphen"/>cient ſoft, and then plant your ſéedes in it,
+and within three or foure hours after you ſhall haue Gourdes growen vp with lea<g ref="char:EOLhyphen"/>nes and with
+flowers.</p>
+               <p>And the like maye you doo with the Melons, Citriones, and other gréene
+ſéedes.</p>
+            </div>
+            <div type="chapter">
+               <pb facs="tcp:191758:14"/>
+               <head>To make a Candle of Iſe to burne like vnto an other Candle.</head>
+               <p>TO doo this make a Candle of Brim<g ref="char:EOLhyphen"/>ſtone, which with the Powder of a Coale ſmeared about, and
+after in the Winter time drowne the ſame in water, but couer the heade of it with a paper, and
+after hang the ſame at the mouth of ſome gutter which droppeth faſt, wherby it may ſo be
+couered with half a finger thickneſſe of Iſe in the Morning, and after being lighted: it will
+then burne vnto the won<g ref="char:EOLhyphen"/>dering of ſuch as ſhall ſée the ſame. Alſo take pure Ware
+and fine Brimſtone pu<g ref="char:EOLhyphen"/>rified, of eache a like: mealt theſe together making thereof a Candle,
+and after take the pouder of a coale finely beaten, &amp; brim<g ref="char:EOLhyphen"/>ſtone the like in pouder, theſe
+ſift through a Serſe or linnen cloath, &amp; after heating the Candle, ſmeare the Candle
+about ſo long, vntil it haue (as it were) a thick cruſt rou<g ref="char:cmbAbbrStroke">̄</g>d about the ſame, lyke vnto the
+thickneſſe of the back of a Knife: which after couer a<g ref="char:EOLhyphen"/>bout y<hi rend="sup">e</hi> head of it with a paper, &amp;
+then hang the ſame at the mouth of a Gutter, which droppeth faſt, vntill the Iſe couer it
+about
+<pb facs="tcp:191758:15"/>a finger thicke, then lyght the ſame, and it will burne like as it were all
+waxe.</p>
+            </div>
+            <div type="chapter">
+               <head>To make fleſh to ſeeme to crall full of Woormes.</head>
+               <p>AND to doo this, take Harpe ſtrings, and cut them into very ſhorte péeces, which
+ſtrawe vpon Meate, béeing taken hote out of the Pot, and thoſe péeces will then
+mooue and ſtirre like vnto woormes.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a light in the night time, that all things round about thy hall or parlour
+ſhall apeare both black and green.</head>
+               <p>TO doo this, take the blacke iuice or inke of the Fiſhe named a Cuttle, and the lyke quantitye
+of Verdygreace, theſe mixe well together, putting the ſame in<g ref="char:EOLhyphen"/>to a Lampe, and dipping a
+wéecke in that licour, then light the ſame, putting out the other lights in that roome,
+and then ſhall all thinges round about that place, and the walls alſo being white, appeare both
+black and gréene vnto the meruaile of ſuch as ſhall ſée the ſame.</p>
+            </div>
+            <div type="chapter">
+               <pb facs="tcp:191758:15"/>
+               <head>How to make Rootes to haue what proper forme you will on them.</head>
+               <p>TO doo this, take ſuch gréene Rootes which be bigge, lyke as be the Bri<g ref="char:EOLhyphen"/>onye rootes,
+Radiſhe rootes, and Rape or Nauew rootes, and of any of theſe rootes carue and cutte as you
+liſt, and after put the ſame into the earth, letting it there ſo long remaine, vntill the
+ſame caruing be couered with a ſkinne. And one ſuch wiſe may you make the counterfeit
+Mandraks in faſhioning in the Briony roote, as both <hi>Mathealus</hi> and <hi>Cardane</hi> doo
+write, forme of a man with a Pen knife, and ſetting the ſame roote againe into the earth, with
+the head of the root turned downewarde, and a little Barly put vnder it, which af<g ref="char:EOLhyphen"/>ter wil cleaue
+and hang faſt vnto the head of the Roote, and appeare like vnto haire growing out of the
+ſame.</p>
+            </div>
+            <div type="chapter">
+               <head>How to break a ſtone with the fiſte, of the thicknes of ones hand.</head>
+               <p>AND to doo this, firſte rayſe the edge of a flat ſtone vpright from a plaine boorde, or
+rather from a bigge ſmoothe
+<pb facs="tcp:191758:16"/>ſtone in ſuch force that it ſtande of it ſelfe without any vnder bearing or
+help, &amp; af<g ref="char:EOLhyphen"/>ter with thy fiſte ſmite haſtely or quickly that part ſtanding vpright,
+which falling together flat on the plaine boorde or ſtone: dooth ſo breake in ſo many
+péeces. And if the fiſt be ſwiftlier ſmitten, then the end of the ſtone toucheth the
+boorde in the falling then is that ſtroke in vaine: and breaketh not the ſame at that time. And
+in the like manner may Tiles be eaſily broken with a ſmall and eaſie ſtroke of the hande,
+for that through the weight of the ſtone in the falling and helpe of the quicke ſtroke, it
+dooth of this ſo lightly breake euen as it were downe with the vehement ſtroke of a hammer.</p>
+            </div>
+            <div type="chapter">
+               <head>¶ To make an hearb to growe which ſhall haue many ſauours and taſtes.</head>
+               <p>AND to doo this: firſte take one ſéede of the Lettice, one ſéede of Endiue,
+one of Smallage, one of the Baſſill, one of the Leeke, &amp; of the Parſlie, al theſe put
+togither in a hole in ſuch ſort, that one ſéede may touch an other: but this remem<g ref="char:EOLhyphen"/>ber
+
+<pb facs="tcp:191758:16"/>that you plant theſe together in the dung of an Horſſe or an Oxe without any
+earthe at all with them. And then after of theſe ſéedes ſhall growe vp one proper
+hearbe, which will haue ſo many ſauours and taſtes, as there were ſéedes ſowne
+to<g ref="char:EOLhyphen"/>gether.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make ſundry deuiſes or Armes or ſuch like: in a Roſe, Carnation, or Flowers de
+luce or Lilly.</head>
+               <p>TO doo this take Salt Armoniack, and grinde the ſame on a Marble Stone, with fine Vineger, and
+a little Sugar candy, and kéep the ſame in a narrow nec<g ref="char:EOLhyphen"/>ked pot or glaſſe and after
+take your Roſe and dreſſe the leaues, in faſtening them with red waxe: that they may ſo
+lye plain and euen, which ſo doone: then take a fine Penſell with the licour drawing on the
+leaues, what proper matter or armes you liſt; &amp; after let the ſame drye of it ſelf,
+put<g ref="char:EOLhyphen"/>ting vppon of the leafe golde: or the leafe ſiluer: and after preſſing it lightly or
+gent<g ref="char:EOLhyphen"/>ly downe with Bombaſſe, and that which ſticketh not then faſt, falleth off in the
+doo<g ref="char:EOLhyphen"/>ing,
+<pb facs="tcp:191758:17"/>and ſo your woork will remaine trim and faire.</p>
+            </div>
+            <div type="chapter">
+               <head>To write what you liſt on a Steele Dagger, or Knife.</head>
+               <p>HOW to doo this, take an ounce of Salt Péeter, and an ounce of gréen
+Copereſſe, beat theſe groſely toge<g ref="char:EOLhyphen"/>ther, and after put the ſame into a ſtrong Bottle of
+Glaſſe, diſtilling a water of it, which water vſe on this wiſe: Firſt, take yellow or
+red Waxe, ſtretching the ſame vpon your Dagger or Knife, ſo farre as you wil draw or write
+ther vpon vnto the thickneſſe of a Paper leafe and ſomewhat more, after draw or write therein
+what you liſt, drawing or writing vnto the Steele, and then ſill that hollow drawing or holes
+with the diſtilled water, which within a daye and a night, will haue eaten it ſufficiently, and
+the like may you draw and doo in any other péece of ſtéele.</p>
+            </div>
+            <div type="chapter">
+               <head>How to breake a newe and bigge Rope, with the hands onelye.</head>
+               <pb facs="tcp:191758:17"/>
+               <p>TO doo this, take and faſten the one ende of the Corde or Rope, eyther with a nayle driuen
+faſt into it, or about a ſtrong hook of Iron, &amp; after winde the ſame thrée or
+foure tims or oft<g ref="char:EOLhyphen"/>ner about thy hand, and the other ends of the Corde or Rope winde about by the
+top of the Palme betwéene the forefinger and thumbe, that the one parte of the cord may
+reache vnto the Nayle, and the head or o<g ref="char:EOLhyphen"/>ther ende vnto the bottome of the Palms, by which it
+muſt be againe winded about and after that winded again once or twice about. And this ſo doone,
+then with a vehe<g ref="char:EOLhyphen"/>ment plucke and force aſſaye in the ſame part by which it is ſo ouer
+winded or run with the Cords for that the ſubſtaunce of the Corde or Rope which is vnder, dooth
+defende, that the hande can take no harme by the haſty and ſtrong pull, and take héed
+that the vtter moſte fold of the Corde ſlide not in thy hand. And to conclude: this con<g ref="char:EOLhyphen"/>ceiue,
+that in the mighty and haſty pluck together, the one folde of the Corde dooth ſo cut the other
+in ſunder, and then eſpeci<g ref="char:EOLhyphen"/>ally, when as that parte ſhall be ſet ſofte which is
+betwéene the hande and the naile
+<pb facs="tcp:191758:18"/>and that both the hand be ſtrong, and then pluck out right and quick. And now if you
+will conceiue this order in the winding of the Corde about both the handes, you may ſo breake the
+ſame with the onely ſtrength of the handes: yea ſuch ſtronge Cordes or Ropes, as will well
+holde a Bullocke or Cowe, vnto the admiration or wondering of the lookers on.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make white Flowers like as the Lil<g ref="char:EOLhyphen"/>ly, white Roſe and ſuch like to be
+redde.</head>
+               <p>AND to doo this, fill a Pinte Pot of the beſt redde Wine, vnto the middle of it, and within
+the mouth of the Pot hang the white flowers ſoo déepe in, that they touch not the Wine
+after that couer the mouth of the pot very cloſe, ſo that no ayre of the Wine breath out, and
+then let it ſtande for one whole daye, and they wil after became red of co<g ref="char:EOLhyphen"/>lour. And to make
+ſuche Flowers that be naturally white, to become redde, doo this firſt take groſe earth,
+drying the ſame very well in the Sunne, that you maye after
+<pb facs="tcp:191758:18"/>bring the ſame into verry fine pouder, and after put the ſame earth into a Pot or
+half Tubbe, where you minde to plant your white Flowers to become redde, and after they be ſo
+planted in the Earthe, then let the<g ref="char:cmbAbbrStroke">̄</g> not be watered at any time with any other water then this,
+which is made on this wiſe: Take water, putting therin certaine quantity of Braſil finely cut,
+and boyle the ſame vnto a thirde parte, which water after take, and being through cold, water by
+little and little the ſame earth, as both at morning and euening, and wa<g ref="char:EOLhyphen"/>ter it at no time with
+any other water then this, vntill you ſée that the ſame wa<g ref="char:EOLhyphen"/>ter firſt haue taken
+effect.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a hollowe Ring to daunce by it ſelfe, a proper ſecret.</head>
+               <p>AND to doo this, take a Ring rounde about hollowe, into which put Quick<g ref="char:EOLhyphen"/>ſiluer, and ſtoppe
+the ſame faſt that it run not foorth. After heate the Ring ſomwhat in the fire, or let it lye
+néere vnto the fire and being hote, laye the ſame on a Table or ſtoole, which by and by
+after wil begin
+<pb facs="tcp:191758:19"/>to daunce of it ſelf, vntil it be cold againe.</p>
+            </div>
+            <div type="chapter">
+               <head>To make Glew to holde together ſo hard as a ſtone a proper ſecret.</head>
+               <p>AND to doo this take vnſleikt Lime, and quenche the ſame with Wine &amp; beate the ſame
+into fine powder, mix<g ref="char:EOLhyphen"/>ing therewith, both Figges and Siuines greace, &amp; after labour them well
+together for this as <hi>Plini</hi> writeth paſſeth the hard<g ref="char:EOLhyphen"/>neſſe of a ſtone. Alſo,
+take <hi>Greek</hi> Pitch, Roſin, and the pouder of Tyle ſtones theſe mixe together and when
+you will occupie of the ſame, then heat it ouer the fire, and woork therewith: for when the
+ſame is colde, it holdeth them together ſo hard as any Nayle. Alſo, take of <hi>Spuma
+ferri</hi> one pound of Tyle ſhardes, two pound of vn<g ref="char:EOLhyphen"/>ſleikt Lyme foure pound, of Oyle of
+Lin<g ref="char:EOLhyphen"/>ſéede, ſo muche as ſhall ſuffice to prepare and woorke them together, for this
+Glew is meruailous ſtrong, which neither fea<g ref="char:EOLhyphen"/>reth nor yéeldeth to water nor fier.</p>
+            </div>
+            <div type="chapter">
+               <head>To make an Apple moue on the Table, a proper ſecret,</head>
+               <pb facs="tcp:191758:19"/>
+               <p>HOw to doo this, take an Apple and cutte the ſame in the middeſt, and in the one halfe make
+a rounde hole, put<g ref="char:EOLhyphen"/>ting therein a blacke Béetle, and ſo laye the ſame halfe on the
+Table, and it will then moue.</p>
+            </div>
+            <div type="chapter">
+               <head>To make Roſes and other Flowers that be red, to become white.</head>
+               <p>AND to doo this take Brimſtone beating the ſame into fine powder which powder, burne on a
+newe tyleſtone, holding ſuch red flowers or Roſes ouer the ſmoake of it, whyles it ſo
+burneth, and they will after become white, and on this wiſe you maye make your Roſes halfe
+white and halfe redde, or one leafe white, and another redde, by a cap of paper ſo cut for the
+nonce.</p>
+            </div>
+            <div type="chapter">
+               <head>How to write letters on the Egſhel that the ſame letters may appeare within on the
+Egge.</head>
+               <p>AND to doo this, take a little quan<g ref="char:EOLhyphen"/>titye bothe of Galles and Allome, which woorke togeather
+with Vine<g ref="char:EOLhyphen"/>ger,
+<pb facs="tcp:191758:20"/>and after write with this licour what you will on the ſhell. and that dried, laye
+then the Egge in Vrine, or elſe anoint the Egge about with Ware, vnto the thicke<g ref="char:EOLhyphen"/>neſſe of a
+Paper or ſomewhat more, and with a fine bodkin write déep letters, that the holes may be
+open, and the letters ap<g ref="char:EOLhyphen"/>parant, into the which holes powre of this lycour, and when the ſame is
+dried on the Egge, then ſéethe the Egge vntill it be harde, and after laye the ſame to
+ſoke in ſharpe Vineger, through the which ſoking the letters will ſo paſſe through the
+ſhell, that the letters may be ſéene on the Egge, after the ſhell is pulled off.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a Bottle or a narrow mouth pot ful of water or milke not to ſpill or ſhed
+foorth.</head>
+               <p>TO doo this: take the Bottle or nar<g ref="char:EOLhyphen"/>rowe mouth Pot, and ſill the ſame vnto the brimme, after
+couer the mouth with a Paper, and then turne the mouth downward on y<hi rend="sup">e</hi> mouth of an other Pot, and
+nothing ſhall ſhed foorth, as by a trial in filling the one pot with milk, and
+<pb facs="tcp:191758:20"/>the other may be ſéene.</p>
+            </div>
+            <div type="chapter">
+               <head>How to kill Fleas diuers waies.</head>
+               <p>ANd firſt, to gather all the Fleas of thy Chamber into one place, annoint a Staffe with the
+greace of a Foxe, or Headghogge, and laye the ſtaffe againe, where you liſt in your chamber,
+and it ſhal ſo gather all the Fleas by it. Alſo fil a diſh with Goates blud, and ſet the
+ſame by the bed, &amp; all the Fleas will come to it round about. And the lyke will they doo by
+the blood of the Headghog. Alſo take the fat of a Goate, and annoint what you liſt ther<g ref="char:EOLhyphen"/>with,
+and ſet the ſame vnder your bed, and all the Fleas will gather vnto the ſame. Alſo take
+Lupines or flat Beanes, &amp; boyle them in water with Woormwood, and that water ſprinkle well
+about the Chamber, and all the Fleas ſhall auoide that cham<g ref="char:EOLhyphen"/>ber. Alſo take an Apple of
+Coliquintida, and infuſe the ſame in water, and in that water boyle Woormewood, which caſt
+a<g ref="char:EOLhyphen"/>bout the Chamber, killeth all the Fleas. And the like dooth the Peache leaues, or Verueine, or
+Colyander boyled in water and ſo caſt about.</p>
+            </div>
+            <pb facs="tcp:191758:21"/>
+            <div type="chapter">
+               <head>How to make a Pot of glaſſe not to ſinke in the water, a proper ſecret.</head>
+               <p>
+                  <figure>
+                     <figDesc>diagram of thin-necked glass vase or pot, with letters reversed</figDesc>
+                  </figure>
+               </p>
+               <p>TO doo this, firſte fill a Glaſſe Pot full of Water, or wine vnto the brim, for other
+wiſe it ſin<g ref="char:EOLhyphen"/>keth downe and is drowned in the ſet<g ref="char:EOLhyphen"/>ting of it in the wa<g ref="char:EOLhyphen"/>ter: the reaſon of
+which appeareth by this demonſtration. Imagine that the pot be <hi>D.</hi> whoſe necke is
+<hi>A.B.C.</hi> that vacant part of it <hi>A.B.</hi> in that <hi>A.B.</hi> dooth beare a<g ref="char:EOLhyphen"/>boue
+water, through the ayre which is co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>tained therein: and the waighte of the glaſſe
+<hi>A.B.</hi> draweth toward the Centere, and <hi>A.B.C.</hi> can not deſcende by ſtraight line
+downe, for that it ſhall labor in vaine. And therfore the ſignifier <hi>D.</hi> boweth in that
+<hi>D.</hi> when as the wine is ſet in the wa<g ref="char:EOLhyphen"/>ter, it reſiſteth not, and therfore
+<hi>A.B.</hi> dooth deſcend vntill it come vnto the vpper face of the water, but when
+<hi>A.B.</hi> ſhall be in
+<pb facs="tcp:191758:21"/>the vpper face of the water, the part <hi>E.</hi> is then drowned, in that it is the
+neather part, and all the necke of the pot.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a thin Glew, very profitable, a proper ſecret.</head>
+               <p>ANd to doo this, take the Glew made of fiſhes, beating the ſame ſtrongly on an Anuell,
+vntill it be thin, which after laide to ſoke in water, vntil it become very ſoft and tender,
+which wil be within fiue or fix houres, &amp; then woork it like paſte to make ſmal roles
+therof, which whe<g ref="char:cmbAbbrStroke">̄</g> it is like vn<g ref="char:EOLhyphen"/>to paſte, ſtretch it or draw it out very thin, &amp; when you
+will work with it, then put of the ſame into an earthen pot with a little faire water ouer hote
+embers, and ſkim the ſame very cleane, and let it ſo ſeethe a little while, after work with
+the ſame kée<g ref="char:EOLhyphen"/>ping it ſtill ouer the hote embers, vntill you haue doone with it, for ſo
+it faſteneth &amp; bindeth the ſtro<g ref="char:cmbAbbrStroke">̄</g>ger. And in ſuch ſort that it faſteneth péeces
+of glaſſe together.</p>
+            </div>
+            <div type="chapter">
+               <head>How to drawe a Ring off being very harde thruſt on, and the finger ſwelled.</head>
+               <pb facs="tcp:191758:22"/>
+               <p>AND if eyther man or woman hath thruſt a Ring, ſo harde on theyr fin<g ref="char:EOLhyphen"/>ger, that he or ſhe
+cannot drawe the ſame off, through the ſwelling of the fin<g ref="char:EOLhyphen"/>ger: then thréede a
+Néedle, and drawe the ſame vnder the Ring, and wind the thréed about the finger on
+the other ſide, and ſo of ten winde the thréed about, and diligently conſider that the
+whole ioynt and parte of the finger, lying or being betwéene the ioynt and the ring, be
+couered about with the thréed, and that no part be ſeene of the ſkinne, through the
+cloſe couering of the thréed, and euen drawe the Néedle againe vnder the Ring, and
+winde the thréed like about on the other ſide, and that ſpéedilye whereby the
+King drawne &amp; remooued on the thréed, by little and little may ſo paſſe ouer the
+ioynt and come of. But whyleſt you are in y<hi rend="sup">e</hi> dooing of this, make no tary<g ref="char:EOLhyphen"/>aunce or delaye, for
+that the finger dooth ſo lightly ſwell, that without great pain the Ring cannot be drawn
+off.</p>
+            </div>
+            <div type="chapter">
+               <head>To make fruits as Apples, Peares, Quinces, and ſuch like to haue what proper forme you wil
+on them.</head>
+               <pb facs="tcp:191758:22"/>
+               <p>AND to doo this, counterfeit on a péece of wood, being in bigneſſe to the fruite
+which you deſire, what forme you will? Or elſe cutte Ro<g ref="char:EOLhyphen"/>main, or other faſhion letters in it,
+(to ex<g ref="char:EOLhyphen"/>preſſe if you liſt) ſome proper words which ſo doone, then make a moulde with
+water and Chalke vnto the thickneſſe of thy litle finger, the ſame part into y<hi rend="sup">e</hi> iuſt
+halfe. And when this moulde is drie which ſoone dri<g ref="char:EOLhyphen"/>eth, ſeperate then the ſame from the wood
+with oile before. And when you haue got<g ref="char:EOLhyphen"/>ten off the mould from the wood, and par<g ref="char:EOLhyphen"/>ted it in two
+iuſt halfes, then take y<hi rend="sup">e</hi> ſame moulde, and binde it moſt cloſe vnto the fruit, being
+growne vnto his halfe big<g ref="char:EOLhyphen"/>neſſe, and let it ſo continue vntil the fruit become vnto his full
+bigneſſe, and the<g ref="char:cmbAbbrStroke">̄</g> take the moulde away, and you ſhal ſée the tri<g ref="char:EOLhyphen"/>all of the former
+taught.</p>
+            </div>
+            <div type="chapter">
+               <head>How to cut a Glaſſe, a proper ſecret.</head>
+               <p>AND to doo this, ſtéepe a thréede in Oyle and brimſtone mixt together and
+compaſſe the Glaſſe with the thréed in y<hi rend="sup">e</hi> place where you would haue it
+<pb facs="tcp:191758:23"/>parted, and after kindle &amp; lighte the ſame and ſo often doo thus, vntil the
+place be hot and after compaſſe the ſame with a thréed wet in colde water, &amp; it
+will part ſo clean a ſunder, as if the ſame had béen cut with a ſharpe pointed
+Diamond.</p>
+            </div>
+            <div type="chapter">
+               <head>How to ſoften Chriſtall, to imprint what you liſt therin, a proper ſecret.</head>
+               <p>AND to doo this, take the blood of a Lambe, and the blood of a Wea<g ref="char:EOLhyphen"/>ther, mixing theſe
+together, after take thy Chriſtall Stone, heating it in the fyre burning hote, and then quench it
+in the blood, which after wil become ſo ſofte as paſte, then with a Cop<g ref="char:EOLhyphen"/>per print woork
+therein what you liſt, and after ſette the ſame abroad in the ayre, and it will come againe
+vnto the former hardneſſe.</p>
+            </div>
+            <div type="chapter">
+               <head>How to walke on the water a proper ſecret.</head>
+               <pb facs="tcp:191758:23"/>
+               <p>
+                  <figure>
+                     <figDesc>a man in a loincloth with a staff walks on water</figDesc>
+                  </figure>
+               </p>
+               <p>FOR to doo this, take two little Tim<g ref="char:EOLhyphen"/>brels, and binde them vnder the ſoules of thy
+féet, and at a ſtaues end faſte<g ref="char:cmbAbbrStroke">̄</g> an other, and with theſe you may ſafelie walke on
+the water, vnto the wonder of all ſuch as ſhall ſée the ſame: if ſo be you often
+exerciſe the ſame with a certaine holdneſſe and lightneſſe of the body.</p>
+            </div>
+            <div type="chapter">
+               <pb facs="tcp:191758:24"/>
+               <head>¶ To make a Candle to burne a proper ſecret.</head>
+               <p>FOR to doo this, firſte make a wéecke of Sylke, and infuſe the ſame in the Oyle of
+Hemp ſéed, and when the wéecke ſhal be ſufficiently ſoked, role the ſame in
+Snowe, vntil it be of the dig<g ref="char:EOLhyphen"/>neſſe of a great Candle, whereby it maye ſo be well wrought
+together, &amp; after light the ſame, ſetting it in a ſticke, and it will giue the like light
+as a Wax Candle. Al<g ref="char:EOLhyphen"/>ſo make a Candle of Purpen ſtone &amp; waxe together, about the which role
+Snow, and the Snowe will burne vntil it be all wa<g ref="char:EOLhyphen"/>ſted. Alſo take Snowe, and mixe therwith the
+powder of Camphire, and of the ſame make a Candle, and it will burne being lighted.</p>
+            </div>
+            <div type="chapter">
+               <head>How to drawe many Candles the one after the other being laid a foot diſtance or more a
+ſunder.</head>
+               <p>FOR to doo this, take Brimſtone, Orpiment, and Oyle, theſe labour together, and make thereof
+an Oint<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:191758:24"/>after take ſo many Candles as may well ſerue your Table, which laye on the Table a
+large foote a ſunder, and all a roe, the one behinde the other as long as you liſt to laye
+them, yea a hundred may you lay down on this wiſe a length, if you lay them ſtraite, then take
+a long threed, and annoint the ſame in this ointment, which after laye a long on the Candles, and
+af<g ref="char:EOLhyphen"/>ter drawing the formoſt, all will followe by order.</p>
+            </div>
+            <div type="chapter">
+               <head>¶ How to cut an Apple into many peeces without harming of the ſkin or paring.</head>
+               <p>TO doo this, take a moſte fine Néedle with a ſmall thréed, and thruſt the
+ſame by little and little vnder the paring, &amp; thruſt it in againe right againſt the
+place, vntill you haue ſo gone round a<g ref="char:EOLhyphen"/>bout the outſide of the Apple. And this alſo reme<g ref="char:cmbAbbrStroke">̄</g>ber
+that you thruſt y<hi rend="sup">e</hi> néedle through the paring at ſtraite corners one againſte the
+other of the Apple, and this ſo often doo vntill you come againe vnto the firſt place where you
+began.</p>
+               <p>
+                  <pb facs="tcp:191758:25"/> And if ſo be you would deuide the ſame in ſix or eight péeces, then draw
+the thréed againe by a like diſtance, alwaies taking héede to deuide the Apple
+vnder the ſkin and when you haue thus doone with the Apple, and the péeces yet couered
+with the ſkin, then draw out the ends of the thréed, and you ſhall after deuide the
+Apple with<g ref="char:EOLhyphen"/>in, without harming of the paring or ſkin into ſo many péeces as you liſt.
+And when you haue thus drawne out, and taken the thréed quite away, you may kéepe the
+ap<g ref="char:EOLhyphen"/>ple ſo long as you think requiſite.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a Cup of Glaſſe being ſet in the fier not to burne.</head>
+               <p>AND to doo this, take what Cuppe or Pot of glaſſe you liſt, and ſéethe the ſame
+in common Oyle, by the ſpace of fiue houres, and after take it foorth, and it will be then made
+ſo ſtrong that the ſaid Cup of glaſſe or pot, will indure the heate of the fier.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a Candle to be meruailed at, a proper ſecret.</head>
+               <pb facs="tcp:191758:25"/>
+               <p>
+                  <figure>
+                     <figDesc>a fireproofed glass vase or pot</figDesc>
+                  </figure>
+               </p>
+               <p>AND to doo this, take fowre ounces of Salte Niter, ſixe ounces of fine Frankenſence,
+thrée ounces of brim<g ref="char:EOLhyphen"/>ſtone, ſix ounces of Oyle, and ſixe ounces of the Milke of
+<hi>Cataputia,</hi> all theſe beate fine, and mixe together, after take thrée ounces of
+Waxe, and make then a Candle of altogether, in the end of which Candle<g ref="char:EOLhyphen"/>ſticke, ſticke
+déepe a Néedle, and after ſet the ſame in a narrowe mouth glaſſe ful of
+water, and you ſhall ſée after what the ſame will doo.</p>
+            </div>
+            <div type="chapter">
+               <pb facs="tcp:191758:26"/>
+               <head>¶ How to make Quick-ſiluer, in a maner ſo hard as Siluer.</head>
+               <p>AND to doo this, take the ſtrongeſt Vineger, and whites of Egges wel beaten together, and
+thrée ounces of quickſiluer, vnto one of the other theſe firſt ſtill together in a
+Limbeck well luted, and in that diſtilled water put the quickſiluer and it will be after ſo
+harde, that you may woork it with y<hi rend="sup">e</hi> hammer. Alſo take quick<g ref="char:EOLhyphen"/>ſiluer, and waſh it in the
+diſtilled water of mans blood, and euery time you waſh the ſame let it drie, and in the end
+it wil come to be ſo hard as ſiluer.</p>
+            </div>
+            <div type="chapter">
+               <head>How to ſee many and diuers ſtrange ſignes in an Vrinall.</head>
+               <p>AND to ſée theſe, take a new and cleane waſhed Vrinall, into which powre either
+cleane water, or other running water, after take y<hi rend="sup">e</hi> white of an new laid Egge, and a little
+Saffron binding it in n clean linnen cloath, after that, powre a litle of the water into a diſh
+and put the cloath with y<hi rend="sup">e</hi> Saffron into it,
+<pb facs="tcp:191758:26"/>ſo long vntill it haue coloured it ſomwhat and being on this wiſe, then beat y<hi rend="sup">e</hi>
+white of the egge with this water ſeuen or eight times with thy finger, and the<g ref="char:cmbAbbrStroke">̄</g> powre the ſame
+into the Vrinall, and you ſhall after ſée in it Towers, Caſtels, Hills, and ma<g ref="char:EOLhyphen"/>ny
+other ſtrange ſightes.</p>
+            </div>
+            <div type="chapter">
+               <head>How to catch Fowles without a Nette.</head>
+               <p>TO doo this, take Arſenick, putting the ſame in water, and in that water boyle wheat, or any
+other grain, and caſt the ſame foorth vnto Fowls, and ſo many as eate therof, will not be
+able afterward to flye away. And take the iuice of Celi<g ref="char:EOLhyphen"/>done, and infuſe Wheate in the ſame,
+let<g ref="char:EOLhyphen"/>ting it there remaine for thrée daies, after giue the ſame vnto Fowles to eate, &amp;
+ſuch as eat therof you may after take with the hand. Alſo take Wheate, putting it in wine
+Lées, and let the ſame remain there eight dayes, after that put it into the iuice of
+Celandine and horehounds, to ſtéepe, which ſo doone, then giue of the ſame vnto the
+Fowles to eate, and ſuch as eate ther<g ref="char:EOLhyphen"/>of, cannot flye away.</p>
+            </div>
+            <div type="chapter">
+               <pb facs="tcp:191758:27"/>
+               <head>How to make a loafe of bread new ſet vpon the Table to leap off.</head>
+               <p>TO doo this, take a quill, fylling the ſame with Quick Siluer, and ſtop<g ref="char:EOLhyphen"/>ping it cloaſe,
+thruſte the ſame after in<g ref="char:EOLhyphen"/>to a hote Loafe, newe drawne out of y<hi rend="sup">e</hi> O<g ref="char:EOLhyphen"/>uen, and the loafe will by
+and by daunce on the Table.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make an Egge flie about, a merrye concluſion.</head>
+               <p>AND to doo this, take a Gooſe Egge, and after the opening and cleanſing of it, take a Batte
+that flieth in the Euening, which put into the ſhell, then glewe it faſt about on the toppe,
+and the Batte will flye away with it, which per<g ref="char:EOLhyphen"/>haps will be thought of ſome to flie about in the
+ayre of it ſelfe.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make Artificiall fier diuers wayes: and that maruailous.</head>
+               <p>AND firſte to make a flame of fyre to paſſe ſodenly out of the mouth of a pot
+<pb facs="tcp:191758:27"/>full of water, take an Egge making an hole in the head, and drawe out al the
+ſub<g ref="char:EOLhyphen"/>ſtaunce of the ſame, which ſo doone, then fil the ſame with the powder of brimſtone
+and vnſleikt Lime mixed together, ſhut<g ref="char:EOLhyphen"/>ting the mouth with Waxe, and then let if fall to the
+bottome of a quart potte full of Water, taking quicklye your hand a<g ref="char:EOLhyphen"/>way, and ſodainly will
+iſſue foorth a flame out of the mouth of the Potte. And alſo if thou wilt ſpit fier out of
+thy mouth with<g ref="char:EOLhyphen"/>out paine, and to doo thée no harme, take the powder of the willowe ſticke,
+finelye beaten and ſearſed, with the which ioyne a little new Silke, making it rounde vp lyke
+vnto a ball, into which put this pow<g ref="char:EOLhyphen"/>der, wrapping the Silke well about it, and after put it within
+with the powder a little fine Flaxe, and then properly ſtitche it vp rounde about, which ſo
+doone, then cut it open a little on the one ſide, putting a quicke coale or a light Candle vnto
+it, to ſet it on fire a little, then put it againe in<g ref="char:EOLhyphen"/>to thy mouth, holding the ſame ſofly
+with thy téeth, and turning alſo the parte cut inward in thy mouth, and when thou wilt
+ſpit fier out, then halde the ball ſtrongly in
+<pb facs="tcp:191758:28"/>thy mouth and blowe, and the lookers on ſhall ſée then a great flame
+iſſue foorthe of thy mouth, and doo there no harme at all. Alſo to make a fyre flie vp in the
+ayre. Take Towe, and wet the ſame in <hi>Aqua-vitae,</hi> and after put fire to it, and blowe the
+ſame away, which after will flie vp in the ayre and burne.</p>
+            </div>
+            <div type="chapter">
+               <head>How to knowe a naturall pretious ſtone from a counterfeit.</head>
+               <p>AND to doo this, rubbe the ſame on Leade, and if it chaunge the colour then it is
+counterfeite, if it change not, then it is a natural Stone. Alſo, if the Stone haue lyke vnto a
+Bladder within then it is counterfeite.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a man to appeare on a flame burning without any harme.</head>
+               <p>TO doo this, take Brimſtone, Orpi<g ref="char:EOLhyphen"/>ment, and commun Oyle, of theſe make an ointment, with the
+which anoint thy garment all about, &amp; thy head and handes, and after light the ſame &amp; it
+wil burne all at once without harme. Alſo take iuice of Adders tongue, y<hi rend="sup">e</hi> iuice
+<pb facs="tcp:191758:28"/>of March Mallowes, or other Mallows, &amp; the white of an Egge, theſe mixe
+together, annointing therewith all about thy body, and then caſt the fine pouder of Brimſton on
+the ſame, ſetting it ouer a fire, &amp; it wil ſtrangely burne, and neither harme hands nor
+garment annointed therewith.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make the Chamber as light by night as by day.</head>
+               <p>AND to doo this, take that parte which ſhineth of the night woorms, and bruſe them well,
+which after ſet in hote Horſe dung in a glaſſe ſtopped, and let it there ſo ſtand for
+fiftéene dayes, and after diſtill the ſame in a Limbecke of Glaſſe with a ſoft
+fire, the which water ſo drawne, ſtoppe cloſe in a narrow necked pot of Chriſtall
+Glaſſe, and hang the ſame in the entrie of the houſe, and it will ſo giue a very bright
+light.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make two Dogges fight together a proper ſecret.</head>
+               <p>AND to doo this, take the Seclifſet of the Woolfe, and caſt the ſame betwéen
+<pb facs="tcp:191758:29"/>two Dogges: and they ſhall ſo long fight together, as they lye there
+betwéen them, and when you wil haue them to ceaſe figh<g ref="char:EOLhyphen"/>ting: then take them away.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a Bitch that ſhe ſhall not de<g ref="char:EOLhyphen"/>ſire to be couered with any Dog.</head>
+               <p>TO doo this, take Bées and prepare them orderly, which after giue vnto the Bitch with
+bread, or with meat, and ſhe will not after ſuffer any Dogge to touch her.</p>
+            </div>
+            <div type="chapter">
+               <head>To make a blowne bladder to daunce and ſkip from place to place.</head>
+               <p>TO doo this, put Quick-ſiluer in a blad<g ref="char:EOLhyphen"/>der, and lay the bladder in a hote plcae and it wil
+after ſkippe from place to place without handling.</p>
+            </div>
+            <div type="chapter">
+               <head>How to caſt foorth any woorme or Snake entered within the body.</head>
+               <p>TO doo this, boyle the hearb Baſſill, o<g ref="char:EOLhyphen"/>uer a ſofte fyre in Vineger, which ſo boyled,
+giue vnto the patient to drink: and it ſhall caſt the ſame vp foorthwith. And if the ſame
+be a Snake entered within the
+<pb facs="tcp:191758:29"/>body: then you maye take writinge Inke, and good Wine, mixing them together, which
+after drink, and it wil caſt vp what<g ref="char:EOLhyphen"/>ſoeuer euill be in the body.</p>
+            </div>
+            <div type="chapter">
+               <head>How to make a Hen to run away with great feare.</head>
+               <p>ANd to doo this, take the head of a Kite, and tye the ſame about a Hens necke, and ſhe
+ſhal neuer ceaſe running héer and there, vntil you haue take<g ref="char:cmbAbbrStroke">̄</g> away the ſame from her
+neck, and when you wil take the ſame from her necke, ſhe will then moue from you nothing at
+all.</p>
+            </div>
+            <div type="chapter">
+               <head>How to finde a perſon drowned, that hath been ſought for.</head>
+               <p>TO doo this, take a white loafe, and caſt the ſame into the water, néer y<hi rend="sup">e</hi>
+ſuſpec<g ref="char:EOLhyphen"/>ted place, and it wil forthwith goe directly ouer the dead body, and there ſtil abide,
+by which you may wel finde the dead body.</p>
+            </div>
+            <div type="chapter">
+               <head>How to deale with Iron many waies right profitable.</head>
+               <p>FIrſt to make Iron as ſoft as paſte, take Vitrioll and Salt Niter, of eache a like,
+<pb facs="tcp:191758:30"/>beating theſe to pouder, which after diſtil in a Limbecke of Glaſſe, and in
+this wa<g ref="char:EOLhyphen"/>ter lay your ſmall péeces of Iron, for a day and a night, which after coner in
+hote horſedung for fiftéene dayes, and the ſame will become very ſoft like vnto
+paſte, and with the ſame Iron you may make ſeales or graue, or otherwiſe Imprint what you
+liſt on Iron ſo eaſily as into earth, &amp; you may alſo beate and woork the ſame Iron
+ſo eaſilye as Leade. Alſo make a water of Roche Alome, as is aboue ſaid, and in the ſame
+water quench your Iron ſeue<g ref="char:cmbAbbrStroke">̄</g> times and it wil make the Iron ſo eaſily breake as glaſſe,
+and to make powder therof. Al<g ref="char:EOLhyphen"/>ſo quench the Iron in the dung of an Oxe or Cow, tempered with Hony
+oftentimes and it will become ſo ſofte, that you maye woorke the ſame like Lead, with the
+ham<g ref="char:EOLhyphen"/>mer. Alſo, take ſalt Armoniack well bea<g ref="char:EOLhyphen"/>ten, &amp; mixe the ſame with vnſleiked lime,
+and temper the ſame with colde Water, like vnto a thick broth, and in this water temper the Iron
+and it ſhall after become white, fair, and very ſtrong. Alſo take the iuice of the hearbe
+named <hi>Palma Chriſti,</hi> and with the ſame annoint thy hands, and
+<pb facs="tcp:191758:30"/>you may after hanele Iron fire hote with<g ref="char:EOLhyphen"/>out harme. And the like may you doo with the
+iuice of Hemlocke.</p>
+               <p>Alſo take redde Arſenich, redde Alome of each like: theſe grinde into fine pouder mixing
+the ſame with the iuice of Sen<g ref="char:EOLhyphen"/>gréen, or Houſeléeke, and the gall of a bull and
+annoint thy hands with the ſame: and you may after handle burning Iron, and annointing the
+féete: you may goe on hote Grates of Iron or Coales: without any danger.</p>
+            </div>
+            <div type="chapter">
+               <head>To light a candle at the mouth of an Image painted on the wall.</head>
+               <p>TAke and put Brimſtone, to y<hi rend="sup">e</hi> mouth of the Image, and take a burning Candle and blowe it out.
+And or the wéecke be out, ſet it to the Images mouth, and it will burne. And ſo ye maye
+doo againſt a glaſſe.</p>
+            </div>
+            <div type="chapter">
+               <head>To take Fiſh by night.</head>
+               <p>TAke a lantern of glaſſe, and put a bur<g ref="char:EOLhyphen"/>ning Candle in it, and ſet the lanterne on the
+water, and the Fiſhes will come to light. Or els take Nettles and houſeléek,
+<pb facs="tcp:191758:31"/>and make iuice of them, and put it in a ponde, and all the fiſhes will gather there
+and if your hands be annointed therwith, ye may take them.</p>
+            </div>
+            <div type="chapter">
+               <head>To make that no Dog barke at you.</head>
+               <p>TAke an hearbe called Serpentine, and they ſhall not barke at you.</p>
+            </div>
+            <div type="chapter">
+               <head>To make Birds come to your Culuer houſe.</head>
+               <p>CAſt Barly ſtéeped in Honnie, where they doo féed, and they wyll gather to
+your Culuerhouſe.</p>
+            </div>
+            <div type="chapter">
+               <head>To put an Apple in a Violl.</head>
+               <p>HAng the Viol on the twigge of an ap<g ref="char:EOLhyphen"/>ple Trée, and put a yong Apple in the mouth of the
+Violl, and it will growe therin. And ſo ye maye doo with Grapes or other fruit.</p>
+            </div>
+            <div type="chapter">
+               <head>To put an Egge in a Violl.</head>
+               <p>STéepe the Egge two dayes, and two nightes in Vineger, and then role it on a table
+ſoftly, and it will ſtretch as waxe, and then maye you put it in the Violl or draw it through a
+Ring.</p>
+            </div>
+            <div type="chapter">
+               <pb facs="tcp:191758:31"/>
+               <head>To make folke ſeeme black.</head>
+               <p>PVT Oyle Oliue in a Lamp, and put thereto fine powder of ground Glaſſe and light it, and all
+that be aboue it, will ſéme blacke as Egiptians.</p>
+            </div>
+            <div type="chapter">
+               <head>To proue if a maiden be clean.</head>
+               <p>BVrne Motherwoort, and let her take the ſmoke at her noſe, and if ſhe be cor<g ref="char:EOLhyphen"/>rupt ſhe
+ſhall piſſe, or elſe not. Otherwiſe take graye Nettles while they be gréen, and
+let her piſſe on them, if ſhe be no mai<g ref="char:EOLhyphen"/>den, they will wither foorth, or elſe not.</p>
+            </div>
+            <div type="chapter">
+               <head>To know if a ſicke perſon ſhall die or not.</head>
+               <p>TAke gray Netttles while they be gréen and put them in the patients Vrine: and if they
+remaine gréene, he ſhall liue, and if they wither not.</p>
+            </div>
+            <div type="chapter">
+               <head>To make Salt water freſh.</head>
+               <p>TAke Claye, and put it into a bagge and ſtraine it through till it be cléere, and it
+will be freſh.</p>
+            </div>
+            <div type="chapter">
+               <head>To kindle fier at the Sunne.</head>
+               <p>TAke a very bright Baſen, ond put a newe looking Glaſſe therein, and ſet
+<pb facs="tcp:191758:32"/>the Baſon in the hotteſt of the Sunne, and laye about it very drie Towe ſmall
+chop<g ref="char:EOLhyphen"/>ped, and the towe wil take fire with heat of the Sunne.</p>
+            </div>
+            <div type="chapter">
+               <head>To ſee by night as by day.</head>
+               <p>ANoint your eyes with the blood of a Batte.</p>
+            </div>
+            <div type="chapter">
+               <head>To make fleſh cleaue in the pot.</head>
+               <p>TAke Dwall or Night ſhade, &amp; ſtamp it well, and put it in the potte with meate, and the
+meate will cleaue together.</p>
+            </div>
+            <div type="chapter">
+               <head>To take Birdes.</head>
+               <p>PVt Barlie in the iuice of Rue, and Vi<g ref="char:EOLhyphen"/>ner, and caſt it there as the Birdes doo haunt or come,
+and as ſoone as they haue eaten it, they can not flie, and then ye may take them.</p>
+            </div>
+            <div type="chapter">
+               <head>To make ſilke woormes.</head>
+               <p>TAke the braine of a Calfe, and put it in a pitte of Mader, and let it lye thrée
+wéekes, and they will bréede of the braine and ye may féed them with
+Mulberies.</p>
+            </div>
+            <div type="chapter">
+               <head>To take away haires.</head>
+               <pb facs="tcp:191758:32"/>
+               <p>ANnoint the rough place with the blood of a Batte, after that it is ſhauen: and haire ſhall
+neuer growe there.</p>
+            </div>
+            <div type="chapter">
+               <head>To fat Hennes or Capons.</head>
+               <p>MAke a déepe pitte in the earth, and make therein a Bed of dung, and a bed of nettles,
+and doo ſo til it be ful and there kéep your Pullen, til the hearbs beginne to growe, and
+then let them out, and within a ſhort while, they wil be very fatte.</p>
+            </div>
+            <div type="chapter">
+               <head>That one ſhall not be drunk.</head>
+               <p>DRinke the iuice of Yarrowe faſting, and ye ſhall not be drunke for no drink And if ye were
+drunke, it will ſober you: or els eate the marrowe of Porke faſting, and ye ſhall not be
+drunk.</p>
+            </div>
+            <div type="chapter">
+               <head>To make a good baite for fiſh at all ſeaſons of the yeere.</head>
+               <p>TAke Wheate flower, and Tallowe of a newe ſlaine Shéep, and the gleire of an Egge, and
+beate them altogether, and baite them all therewith.</p>
+            </div>
+            <div type="chapter">
+               <head>To make an Egge goe vp to a Speare ende.</head>
+               <pb facs="tcp:191758:33"/>
+               <p>EMpty the Egge at a little hole, and fill it full of Maye dewe, and ſtop the hole cloſe with
+a little Waxe and Parchment glewed, that the dewe goe not out. Then ſtick a ſpere in the earth
+in the heat of the Sunne, and laye the Egge by the Spere, and it will mount to the top therof by
+the heateof the Sunne.</p>
+            </div>
+            <div type="chapter">
+               <head>To make Fiſh or Fleſh ſeeme rawe.</head>
+               <p>TAke the blood of a Wat, or of a Kid, and dry it, and kéep it from the the aire then
+caſt it on fiſh or fleſh that is hote, and it will ſéeme rawe.</p>
+            </div>
+            <div type="chapter">
+               <head>To make Potage to run out of the Pot.</head>
+               <p>TAke and caſt Sope in the Potte, and it will runne ouer.</p>
+            </div>
+            <div type="chapter">
+               <head>To kill Hennes or Duckes.</head>
+               <p>CAſt to them the ſéed of Henbane, &amp; they will fall downe as they were dead.</p>
+            </div>
+            <div type="chapter">
+               <head>To make coales to burne a great while.</head>
+               <p>MAke pouder of S. <hi>Iohns</hi> Woort, and when the Coales are waſted, and the fyre neere
+out, caſt it theron and let it lye.</p>
+            </div>
+            <div type="chapter">
+               <pb facs="tcp:191758:33"/>
+               <head>That a man ſhall not be weary of going.</head>
+               <p>DRinke the iuice of Mugwoorte, and beare the hearbe about him, with the hearbe Pedilion and
+Crowfoote.</p>
+            </div>
+            <div type="chapter">
+               <head>Ad capiendum Piſces.</head>
+               <p>REcipe luce Mulage vel ſcolares tortas collectum circa medium Maij. Quando Luna ſit plena
+diſtemperata cum ingro ſa<g ref="char:EOLhyphen"/>pe &amp; ſerua in Olla terreo, &amp; quando vis occupare, vnge
+manus tuas &amp; laua illa in aqua vel loco vbi ſunt Piſces.</p>
+            </div>
+            <div type="chapter">
+               <head>To make Yarne and Lynnen Cloath white.</head>
+               <p>TAke a Herring barrel, and fil it nigh full of good Ale dregges, and ſtop at faſt, but ye
+muſt haue a good diſh full of parched beans, and put them in a linnen bag, and very hote put
+them to the dreggs, til they be coole, and ſhut it faſt the ſpace of a quarter of an howre.
+Then take two pound of Allum, ground to ſuttle pouder, and caſt it therin, and let it lye four
+daies
+<pb facs="tcp:191758:34"/>naturallye well cloſed, then waſhe your Yarne.</p>
+            </div>
+            <div type="chapter">
+               <head>To make that a Horſſe may not goe through a ſtreet.</head>
+               <p>TAke the guts of a Woolfe, &amp; laye them ouerthwart the Stréet, and couer them with
+earth or Sande, and he will not goe that way, as long as the guts doo lye there <hi>Probatum
+eſt.</hi>
+               </p>
+            </div>
+            <div type="chapter">
+               <head>To knowe if a woman be with a man childe, or not.</head>
+               <p>TAke a diſh, and put water in it, &amp; then let her milke her breaſt into the wa<g ref="char:EOLhyphen"/>ter, and
+if it be a man childe, it will flete, and if it be a woman Childe, it wil ſinke.</p>
+            </div>
+            <div type="chapter">
+               <head>To eaſe thy feete for going.</head>
+               <p>TAke Plantine and ſtampe it well, and annoint your féete with the iuice ther<g ref="char:EOLhyphen"/>of, and it
+will doo away the gréef.</p>
+               <pb facs="tcp:191758:34"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
